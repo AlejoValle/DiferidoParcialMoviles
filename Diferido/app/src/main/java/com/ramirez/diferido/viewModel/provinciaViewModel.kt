@@ -66,5 +66,6 @@ class provinciaViewModel (private val ProvinciaRepository: ProvinciaRepository) 
         name.value = Provincia.name
         capital.value = Provincia.capital
 
+
     }
 }
