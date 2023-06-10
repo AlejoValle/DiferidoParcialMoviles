@@ -1,4 +1,6 @@
 package com.ramirez.diferido.data
 
-class provincia {
-}
+data class provincia (
+    val name: String,
+    val capital: String
+)
